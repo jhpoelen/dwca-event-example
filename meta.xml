@@ -45,4 +45,50 @@
     <field index="5" term="http://rs.tdwg.org/dwc/terms/measurementDeterminedDate"/>
     <field index="6" term="http://rs.tdwg.org/dwc/terms/measurementMethod"/>
   </extension>
+  <extension encoding="UTF-8" fieldsTerminatedBy="\t" linesTerminatedBy="\n" fieldsEnclosedBy="" ignoreHeaderLines="1" rowType="http://rs.tdwg.org/ac/terms/Multimedia">
+    <files>
+      <location>multimedia.txt</location>
+    </files>
+    <coreid index="0" />
+    <field index="1" term="http://purl.org/dc/terms/identifier"/>
+    <field index="2" term="http://purl.org/dc/elements/1.1/type"/>
+    <field index="3" term="http://rs.tdwg.org/ac/terms/subtypeLiteral"/>
+    <field index="4" term="http://purl.org/dc/terms/title"/>
+    <field index="5" term="http://ns.adobe.com/xap/1.0/MetadataDate"/>
+    <field index="6" term="http://rs.tdwg.org/ac/terms/metadataLanguageLiteral"/>
+    <field index="7" term="http://rs.tdwg.org/ac/terms/providerManagedID"/>
+    <field index="8" term="http://rs.tdwg.org/ac/terms/hasServiceAccessPoint"/>
+    <field index="9" term="http://purl.org/dc/elements/1.1/rights"/>
+    <field index="10" term="http://ns.adobe.com/xap/1.0/rights/Owner"/>
+    <field index="11" term="http://ns.adobe.com/xap/1.0/rights/WebStatement"/>
+    <field index="12" term="http://ns.adobe.com/photoshop/1.0/Credit"/>
+    <field index="13" term="http://rs.tdwg.org/ac/terms/fundingAttribution"/>
+    <field index="14" term="http://purl.org/dc/elements/1.1/creator"/>
+    <field index="15" term="http://rs.tdwg.org/ac/terms/providerLiteral"/>
+    <field index="16" term="http://purl.org/dc/terms/description"/>
+    <field index="17" term="http://rs.tdwg.org/ac/terms/tag"/>
+    <field index="18" term="http://iptc.org/std/Iptc4xmpExt/2008-02-29/LocationShown"/>
+    <field index="19" term="http://purl.org/dc/terms/temporal"/>
+    <field index="20" term="http://ns.adobe.com/xap/1.0/CreateDate"/>
+    <field index="21" term="http://rs.tdwg.org/ac/terms/taxonCoverage"/>
+    <field index="22" term="http://rs.tdwg.org/dwc/terms/vernacularName"/>
+    <field index="23" term="http://rs.tdwg.org/ac/terms/subjectPart"/>
+    <field index="24" term="http://rs.tdwg.org/dwc/terms/sex"/>
+    <field index="25" term="http://rs.tdwg.org/dwc/terms/lifeStage"/>
+    <field index="26" term="http://rs.tdwg.org/ac/terms/subjectOrientation"/>
+    <field index="27" term="http://rs.tdwg.org/ac/terms/captureDevice"/>
+    <field index="28" term="http://rs.tdwg.org/ac/terms/IDofContainingCollection"/>
+    <field index="29" term="http://rs.tdwg.org/ac/terms/relatedResourceID"/>
+    <field index="30" term="http://rs.tdwg.org/ac/terms/derivedFrom"/>
+    <field index="31" term="http://rs.tdwg.org/ac/terms/associatedSpecimenReference"/>
+    <field index="32" term="http://rs.tdwg.org/ac/terms/associatedObservationReference"/>
+    <field index="33" term="http://rs.tdwg.org/ac/terms/accessURI"/>
+    <field index="34" term="http://purl.org/dc/elements/1.1/format"/>
+    <field index="35" term="http://rs.tdwg.org/ac/terms/variantLiteral"/>
+    <field index="36" term="http://rs.tdwg.org/ac/terms/hashFunction"/>
+    <field index="37" term="http://rs.tdwg.org/ac/terms/hashValue"/>
+    <field index="38" term="http://ns.adobe.com/exif/1.0/PixelXDimension"/>
+    <field index="39" term="http://ns.adobe.com/exif/1.0/PixelYDimension"/>
+  </extension>
+
 </archive>

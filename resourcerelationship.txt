@@ -1,2 +1,7 @@
-id	resourceRelationshipID	resourceID	relatedResourceID	relationshipOfResource	relationshipAccordingTo	relationshipEstablishedDate	relationshipRemarks
-aa0163ec-6f28-472a-a110-80dacf8c51be	438c5d2a-730b-4f61-a524-18d2f01ea01b	aa0163ec-6f28-472a-a110-80dacf8c51be		Ectoparasite Of			Host: Euneomys noei [Synonym of E. mordax according to ITIS] | scientificName: Euneomys mordax Thomas, 1912
+id	resourceID	relatedResourceID	relationshipOfResource
+event1	tuco1	tuco2	offspring of
+event1	tuco1	tuco3	offspring of
+event1	tuco2	tuco1	mother of
+event1	tuco3	tuco1	mother of
+event1	tuco2	tuco3	sibling of
+event1	tuco3	tuco2	sibling of

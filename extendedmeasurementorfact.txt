@@ -1,0 +1,4 @@
+id	occurrenceID	measurementValue	measurementAccuracy	measurementUnit	measurementDeterminedDate	measurementMethod
+event1	tuco1	250	1	grams	2019-07-04	Pesola Scale
+event1	tuco2	50	1	grams	2019-07-04	Pesola Scale
+event1	tuco3	55	1	grams	2019-07-04	Pesola Scale

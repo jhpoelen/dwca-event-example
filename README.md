@@ -8,7 +8,7 @@ as found via https://github.com/tdwg/dwc-qa/issues/140 .
 with multimedia schema / records derived from FMNH Insects media:
 
 
-```
+```json
 {
   "http://www.w3.org/ns/prov#wasDerivedFrom": "line:zip:hash://sha256/ff51832b86d3758510929fd2389dcec47e4546e3669cf1a4325c4e394b2e272a!/dwca-event-example-main/multimedia.txt!/L2",
   "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://rs.tdwg.org/ac/terms/Multimedia",
